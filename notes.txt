@@ -1,0 +1,10 @@
+-- TODO
+
+* Basic cashier functions from adding items to buying them to seeing purchase history
+* Adds service tickets
+* Quick search for items and everything else
+* Make a UI
+
+
+-- NOTES
+Finish before april
