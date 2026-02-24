@@ -1,3 +1,23 @@
+-- Progress
+
+> defining classes and its properties
+>> Customer, Items, Sale, Service
+
+> making basic CRUD functions for each class
+
+> making a database and database design
+
+> making item input interface
+
+> making a transaction interface
+
+> service tickets interface
+
+> transaction history 
+
+> customer interface
+
+
 -- TODO
 
 * Basic cashier functions from adding items to buying them to seeing purchase history
@@ -8,3 +28,4 @@
 
 -- NOTES
 Finish before april
+
